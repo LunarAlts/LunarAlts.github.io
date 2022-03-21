@@ -1,2 +1,6 @@
-# Alts Now
-## The Free Alt Shop
+# Welcome to Alts Now!
+
+<hr>
+
+## Current Alt Dumps
+
