@@ -1,4 +1,4 @@
-# Welcome to Alts Now!
+# Welcome to Lunar Alts!
 
 <hr>
 
@@ -6,5 +6,6 @@
 
 <hr>
 
-## Current Alt Dumps
+## Current Alt Dumps:
 
+<br>
